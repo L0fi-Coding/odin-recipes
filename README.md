@@ -1,0 +1,1 @@
+Project created to Odin course specifications. Demonstrating knowledge of basic html boilerplate, links, images, and file structure.
